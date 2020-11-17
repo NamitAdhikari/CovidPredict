@@ -1,0 +1,6 @@
+CovidPredict/__pycache__
+predict/__pycache__
+media
+static
+templates/index.html
+predict/migrations
