@@ -1,6 +1,5 @@
 import requests
 import json
-from jinja2 import Template
 
 BASE_URL = 'https://covidtest.dhakalaashish.com.np'
 
