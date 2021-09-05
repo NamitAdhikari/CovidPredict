@@ -4,3 +4,4 @@ media
 static
 templates/index.html
 predict/migrations
+*env
